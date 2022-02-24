@@ -2,4 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/HealthilyProject/DesignTimeBuild
+
+/.vs/HealthilyProject
+/.vs
+/HealthilyProject/bin
+/HealthilyProject/obj
